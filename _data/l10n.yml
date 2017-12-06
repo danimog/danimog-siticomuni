@@ -10,7 +10,7 @@ it:
     footer_address: Indirizzo
     footer_address_sub: ''
     footer_contacts: Contatti
-    footer_contacts_sub: ''
+    footer_contacts_sub: 'Contatti comune'
     footer_link_privacy_policy: privacy policy
     footer_link_toc: note legali
     footer_title: ' '

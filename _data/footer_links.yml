@@ -4,3 +4,6 @@ privacy:
 toc:
   title: footer_link_toc
   url: '/'
+contacts:
+  title: footer_contacts
+  url: '/'

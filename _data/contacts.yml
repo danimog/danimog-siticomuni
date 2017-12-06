@@ -1,11 +1,11 @@
 address:
-  value: Via Roma 1, Roma, 00100
+  value: Via San Francesco 56, Vernazza, 19018
 phone:
   name: phone
-  value: +00 000 000 000
+  value: +39 0187 821247
 email:
   name: email
-  value: my@email.com
+  value: protocollo@comune.vernazza.sp.it
 pec:
   name: pec
-  value: my@pec.com
+  value: protocollo.comune.vernazza@pec.it 
